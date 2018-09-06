@@ -22,7 +22,11 @@
   },
   "dependencies": {
     "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.0",
+    "dom-to-image": "^2.6.0",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "style-loader": "^0.23.0",
+    "url-loader": "^1.1.1"
   }
 }
